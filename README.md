@@ -4,7 +4,7 @@ Facebook currently rebranded itself to Meta on October 28th allowing it to focus
 
 The objective of this analysis is to analyze tweets to deteremine the public opinion regarding facebook's rebranding. 
 
-# Part 1: Webscrapping Twitter Data: 
+# Webscrapping Twitter Data: 
 
 Snscrape a tweet-scraping library, is used to obtain historical tweets without the restrictions of Twitters API.
 
